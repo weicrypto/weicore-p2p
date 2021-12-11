@@ -1,4 +1,4 @@
-var dashcore = require('@dashevo/dashcore-lib');
-dashcore.P2P = require('./lib');
+var weicore = require('@weicrypto/weicore-lib');
+weicore.P2P = require('./lib');
 
-module.exports = dashcore.P2P;
+module.exports = weicore.P2P;

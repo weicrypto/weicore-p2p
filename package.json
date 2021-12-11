@@ -1,8 +1,8 @@
 {
-  "name": "@dashevo/dashcore-p2p",
+  "name": "@weicrypto/weicore-p2p",
   "version": "1.2.2",
-  "description": "Interface to the dash P2P network for Dashcore",
-  "author": "Dash Core Group, Inc. <dev@dash.org>",
+  "description": "Interface to the wei P2P network for Weicore",
+  "author": "Wei Core Group, Inc. <support@weicrypto.com>",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
@@ -43,16 +43,16 @@
     }
   ],
   "keywords": [
-    "dash",
+    "wei",
     "bitcore",
-    "dashcore"
+    "weicore"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dashevo/dashcore-p2p.git"
+    "url": "https://github.com/weicrypto/weicore-p2p.git"
   },
   "dependencies": {
-    "@dashevo/dashcore-lib": "^0.19.25",
+    "@weicrypto/weicore-lib": "https://github.com/weicrypto/weicore-lib.git",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^1.2.8"
