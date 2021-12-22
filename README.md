@@ -1,8 +1,8 @@
 Weicore P2P
 =======
 
-[![NPM Package](https://img.shields.io/npm/v/@dashevo/dashcore-p2p.svg?style=flat-square)](https://www.npmjs.org/package/@dashevo/dashcore-p2p) //todo update later
-[![Build Status](https://github.com/dashevo/dashcore-p2p/actions/workflows/test_and_release.yml/badge.svg)](https://github.com/dashevo/dashcore-p2p/actions/workflows/test_and_release.yml)
+[![NPM Package](https://img.shields.io/npm/v/@weicrypto/weicore-p2p.svg?style=flat-square)](https://www.npmjs.org/package/@weicrypto/weicore-p2p)
+[![Build Status](https://github.com/weicrypto/weicore-p2p/actions/workflows/test_and_release.yml/badge.svg)](https://github.com/weicrypto/weicore-p2p/actions/workflows/test_and_release.yml)
 
 `weicore-p2p` adds Wei protocol support for Weicore.
 

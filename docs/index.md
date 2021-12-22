@@ -7,7 +7,7 @@ Peer-to-peer is implemented as a separate module.
 For node projects:
 
 ```bash
-npm install @weicrypto/weicore-p2p --save //todo update later
+npm install @weicrypto/weicore-p2p --save
 ```
 
 ## Quick Start
